@@ -1,0 +1,44 @@
+Package: com.brend0n.milkyway2-ios14fix_0.0.2.1_iphoneos-arm
+Version: 0.0.2.1
+Architecture: iphoneos-arm
+Maintainer: powtar1945 <sadverysad@bk.ru>
+Depends: firmware (>= 14.0), jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm, jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm
+Filename: ./debs/com.brend0n.milkyway2-ios14fix_0.0.2.1_iphoneos-arm.deb
+Size: 16802
+MD5sum:	1804648bf996086fbd550f9e52908508
+SHA1:	907520bbee73f598cf80393beb560cce4aa30b9a
+SHA256: 69c3242dde67cd7b1c43bd1ac4884ad626524fbc25b9a062bd4762acd2572780
+Section: Tweaks
+Description: Milky Way ios 14 fix
+Author: brend0n
+Name: MilkyWayFix14
+
+Package: jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: powtar1945 <sadverysad@bk.ru>
+Depends: firmware (>= 13.0), jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 16188
+MD5sum:	946370b0c7ba09a2ccb91cb805978d69
+SHA1:	505f575e7ffb4a91ab3175e4b2302d327437ffff
+SHA256:	685d84b8316e57739d3a7c3872ea92856ce6105e9fba6d26bcd08ae6eb49674c
+Section: Tweaks
+Description: backgrounderaction for MilkyWay2
+Author: akusio
+Name: backgrounderaction13
+
+Package: jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: powtar1945 <sadverysad@bk.ru>
+Depends: firmware (>= 13.0), jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm
+Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 73100
+MD5sum:	d3deacebd94f8590c1f5a503a831c15f
+SHA1:	5cafc570df95976f79c192b171a346cf02eeaa9f
+SHA256:	9fc04dbb8a67c3314f203c30975410199875358f4d4e5ac93446c9be62a4e139
+Section: Tweaks
+Description: MilkyWay2 for ios 13. Install MilkyWayFix14 for ios 14
+Author: akusio
+Name: MilkyWay2
